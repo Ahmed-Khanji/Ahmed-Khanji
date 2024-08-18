@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Ahmed! 👋
+Programmer, Cybersecurity Professional, Web Developer
 
 <!--
 **Ahmed-Khanji/Ahmed-Khanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
