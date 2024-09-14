@@ -1,5 +1,5 @@
 # Hi, I'm Ahmed! 👋
-## Programmer, Cybersecurity Professional, Software Developer
+## Programmer, Software Developer
 
 - 🔭 I’m currently working on Data Analytics and AI
 - 🌱 Almost finished cloud computing and cloud architecture
