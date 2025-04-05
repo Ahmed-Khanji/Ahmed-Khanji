@@ -1,5 +1,5 @@
 # Hi, I'm Ahmed! 👋
-## Programmer, Software Developer
+## Software Engineer and Developer
 
 - 🔭 Working on Data Analytics and Machine Learning
 - 📖 Currently a computer science student at Concordia University
