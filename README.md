@@ -1,9 +1,9 @@
 # Hi, I'm Ahmed! 👋
 ## Programmer, Software Developer
 
-- 🔭 I’m currently working on Data Analytics and AI
-- 🌱 Almost finished cloud computing and cloud architecture
-- 🤔 Currently a computer science student
-- 💬 Ask me about computer hardware and architecture, Fundamentals about IT and Automation
+- 🔭 Working on Data Analytics and Machine Learning
+- 📖 Currently a computer science student at Concordia University
+- 💬 Ask me about programming principles like object-oriented programming, data structures and algorithms.
+- 🧠 Expertise in full-stack development, cloud computing, databases, automation and IT support
 - 📫 How to reach me: akhanji01@gmail.com
 
