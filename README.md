@@ -29,7 +29,6 @@ Developer Tools:
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 Libraries & Frameworks:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
