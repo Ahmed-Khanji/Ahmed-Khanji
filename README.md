@@ -2,10 +2,9 @@
 ## Software Engineer and Full Stack Developer
 
 - 📖 Currently a Computer Science student at Concordia University
-- 🔭 Working on Data Analytics and Machine Learning
-- 💬 Ask me about programming principles like object-oriented, data structures & algorithms and memory management.
-- 🧠 Strong background in full-stack development and Automation
-- 📫 How to reach me: akhanji01@gmail.com
+- 🔭 Working on Full Stack Development and Machine Learning
+- 💬 Ask me about programming principles like object-oriented, data structures & algorithms and web development.
+- 📫 Reach me at: [Email](mailto:akhanji01@gmail.com) | [Instagram](https://www.instagram.com/khanji_ahmed)
 
 ## 💻 Tech Stack
 
