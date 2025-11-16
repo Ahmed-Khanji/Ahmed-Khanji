@@ -4,7 +4,7 @@
 - 📖 Currently a Computer Science student at Concordia University
 - 🔭 Working on Full Stack Development and Machine Learning
 - 💬 Ask me about programming principles like object-oriented, data structures & algorithms and web development.
-- 📫 Reach me at: [Email](mailto:akhanji01@gmail.com) | [Instagram](https://www.instagram.com/khanji_ahmed)
+- 📫 Reach me at: akhanji01@gmail.com
 
 ## 💻 Tech Stack
 
