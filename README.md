@@ -18,5 +18,6 @@ Curious, motivated, and persistent. I enjoy creating full applications and addin
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ahmedkhanji/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedkhanji/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhanji01@gmail.com)
+
